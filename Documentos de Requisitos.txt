@@ -14,3 +14,6 @@ Lista de casos de USO:
 CU001:Registrar alumnos
 CU002:Imprimir cardex
 CU003:Cargar materias
+----------------------------------------------
+Conclusiones:
+El sistema sirve para gestionar los servicios del departamento de control escolar.
