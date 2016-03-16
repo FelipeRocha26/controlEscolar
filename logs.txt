@@ -1,0 +1,35 @@
+commit 5a0836660acafc544aa2eb03158f2578d892a191
+Author: Felipe Rocha <farkof26@gmail.com>
+Date:   Wed Mar 16 10:30:29 2016 -0700
+
+    Conclusiones
+
+commit da9d08256129eca87d648fa00e92020eeba45077
+Author: Felipe Rocha <farkof26@gmail.com>
+Date:   Wed Mar 16 10:27:13 2016 -0700
+
+    Lista de casos de USO
+
+commit b988f2ff1480a4e1f595197d4e6d94794d23a67a
+Author: Felipe Rocha <farkof26@gmail.com>
+Date:   Wed Mar 16 10:24:17 2016 -0700
+
+    Requisitos No Funcionales
+
+commit 8b6eb07d890eb93c498e619b52e77c7993da9124
+Author: Felipe Rocha <farkof26@gmail.com>
+Date:   Wed Mar 16 10:21:42 2016 -0700
+
+    Requisitos No Funcionales
+
+commit 0d3f14416ce914e3364705d537637fc03816e8dd
+Author: Felipe Rocha <farkof26@gmail.com>
+Date:   Wed Mar 16 10:14:58 2016 -0700
+
+    Requisitos Funcionales
+
+commit 258df3f9cee464e2eb6e6ebee9a5222b8058fd26
+Author: Felipe Rocha <farkof26@gmail.com>
+Date:   Tue Mar 15 10:51:34 2016 -0700
+
+    Documentos de Requisitos
